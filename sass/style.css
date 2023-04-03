@@ -652,10 +652,10 @@ blockquote p::after {
   padding: 10px 20px;
   font-weight: 700;
   text-transform: uppercase;
-  border: 1px solid #222;
+  border: 1px solid #690000;
   text-decoration: none;
   color: #FFF;
-  background: #222;
+  background: #d62b00;
 }
 
 #contact .contact-detail, #contact address {
